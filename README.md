@@ -3,7 +3,7 @@
  * @Email: w_kiwi@163.com
  * @Date: 2020-10-10 17:18:01
  * @LastEditors: wkiwi
- * @LastEditTime: 2020-10-10 17:19:00
+ * @LastEditTime: 2020-10-10 17:37:37
 -->
 <!--
 **wkiwi/wkiwi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,5 +19,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wkiwi&show_icons=true)
+[Blog](http://bemcss.com) | [E-Mail](w_kiwi@163.com)
+<div align="center">
+<br>
+<br>
+<br>
+<br>
+<p>✍ Hi, I'm wkiwi, WEB developer from Xi'an, China.</p>
+<p>🔭 I’m currently working on Shenzhen, China.</p>
+<p>
+<a href="http://bemcss.com">
+  <img src="https://github-readme-stats.vercel.app/api?username=wkiwi&show_icons=true" />
+</a>
+</p>
+</div>
